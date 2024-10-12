@@ -5,28 +5,22 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Jose</h1></summary>
   </ul>
 </div>
 
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Logical thinking is the pillar of programming</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭I am currently working on technologies such as **React, Laravel, Python, MySQL**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
@@ -34,9 +28,9 @@
 
 - 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **React, Laravel, Python, MySQL**
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 📫 Feel free to reach me out **josecastanedaro@gmail.com**
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
